@@ -62,7 +62,7 @@ tag_archive_path: "/tags/#"
 exclude:
   - Gemfile
   - Gemfile.lock
-  - tags
+# - tags
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
