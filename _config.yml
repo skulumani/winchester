@@ -59,9 +59,10 @@ tag_archive_path: "/tags/#"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - tags
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
@@ -105,13 +106,13 @@ author:
   picture: 
   email:
   twitter: 
-  links:
-    - title: Twitter
-      url: https://twitter.com/skulumani
-      icon: fab fa-twitter-square
-    - title: GitHub
-      url: https://github.com/skulumani
-      icon: fab fa-github-square
+  links: false
+    # - title: Twitter
+    #   url: https://twitter.com/skulumani
+    #   icon: fab fa-twitter-square
+    # - title: GitHub
+    #   url: https://github.com/skulumani
+    #   icon: fab fa-github-square
 
 # Footer Links
 # footer_links:
