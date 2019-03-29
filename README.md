@@ -10,3 +10,12 @@ Can be reached at
 [https://winchester.netlify.com/](https://winchester.netlify.com/)
 
 
+## TODO
+
+* [ ] Instructions for riot and community forum
+* [ ] instructions for Google calendar
+* [ ] Provide access to documents
+* [ ] Add community letters as posts
+* [ ] Instructions on how to run/edit and build for others
+
+
