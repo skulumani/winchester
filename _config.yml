@@ -77,7 +77,7 @@ plugins:
 
 # Collections
 collections:
-  recipes:
+  residents:
     output: true
     permalink: /:collection/:path/
 

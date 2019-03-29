@@ -1,7 +1,7 @@
 ---
 title: "What is a cooperative?"
 date: 2019-03-29
-layout: page
+layout: post
 tags:
     - information
     - cooperative
