@@ -5,7 +5,7 @@ show_excerpts: false
 ---
 
 <figure style="width: 100px" class="align-left">
-<a href="https://portal.ejfrealestate.com/">
+<a href="https://riot.im/app/#/group/+wuc:matrix.org">
 <img src="{{ '/images/discuss-issue.png' | absolute_url }}" alt="">
 </a>
 </figure> 
