@@ -69,6 +69,7 @@ The Cooperative will not be responsible for contaminated items removed during su
 
 ## Additional information
 
-Further details are in the [House Rules Revised June 2016](https://drive.google.com/file/d/1AxUUVPZDejNHD9LDU-NVmrZFnNzKzoiE/view?usp=sharing)
+* Further details are in the [House Rules Revised June 2016](https://drive.google.com/file/d/1AxUUVPZDejNHD9LDU-NVmrZFnNzKzoiE/view?usp=sharing)
+* [Emergency Response Plan](https://www.ready.gov/business/implementation/emergency)
 
 
