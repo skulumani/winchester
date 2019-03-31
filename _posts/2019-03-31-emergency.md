@@ -9,9 +9,17 @@ tags:
     - emergency
 ---
 
-## Emergency issues
+It is important for all members of the Cooperative to be aware of the emergency procedures. 
+The actions taken during the initial moments of an emergency are critical.
+Ensure you know the following:
 
-As always in any emergency (medical or threat of safety) for yourself or others:
+1. Locations of stairwell exits on your floor and building
+2. Location of common area fire alarms
+
+When an emergency occurs, the first priority is life safety.
+The second priority is the stabilization of the scene.
+The following summarize the emergency procedures for the Cooperative. 
+As always in any life threatening emergency (medical or threat of safety) for yourself or others:
 
 1. Call [911](tel:911) immediately
 
