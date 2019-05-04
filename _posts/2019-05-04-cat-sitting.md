@@ -15,6 +15,6 @@ If you'd like to join, visit our Riot room by clicking below and introducing you
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cat Sitting Group](https://riot.im/app/#/room/#wuc-cat-sitting:matrix.org)
 
-![lily]({{ '/images/lily.jpg' | absolute_url }}){: .align-left}
-![princess]({{ '/images/princess.jpg' | absolute_url }}){: .align-right}
+![lily]({{ '/images/lily-min.jpg' | absolute_url }}){: .align-left}
+![princess]({{ '/images/princess-min.jpg' | absolute_url }}){: .align-right}
 
