@@ -38,6 +38,17 @@ show_excerpts: false
 <br>
 
 <figure style="width: 128px" class="align-left">
+<a href="https://groups.google.com/forum/#!forum/winchesterunderwood">
+<img src="{{ '/images/envelope.png' | absolute_url }}" alt="">
+</a>
+</figure> 
+
+# Community email list. An additional method to stay connected
+<br>
+<br>
+<br>
+
+<figure style="width: 128px" class="align-left">
 <a href="https://portal.ejfrealestate.com/">
 <img src="{{ '/images/dollar-symbol.png' | absolute_url }}" alt="">
 </a>
