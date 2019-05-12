@@ -40,6 +40,8 @@ In no particular order, we would like to recognize the following for restoring p
     * Our Building Engineer worked for 3 days to ensure building and resident safety. 
     He ensured work was completed correctly and managed the efforts of the numerous staff on site. 
     In addition, Kevin maintained temporary power supply to the building to ensure critical infrastructure remained operational throughout the outage.
+* [Brandon Todd](https://dccouncil.us/council/councilmember-brandon-t-todd/) - Ward 4 Councilmember
+  * Brandon ensured that Pepco took our situation seriously and address our residents needs.
 
 Unfortunately, I failed to get the names of everyone who came to our aid, but they have all of our heartfelt thanks.
 
