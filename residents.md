@@ -38,7 +38,7 @@ show_excerpts: false
 <br>
 
 <figure style="width: 128px" class="align-left">
-<a href="https://groups.google.com/forum/#!forum/winchesterunderwood">
+<a href="https://groups.google.com/forum/#!forum/winchesterunderwood/join">
 <img src="{{ '/images/envelope.png' | absolute_url }}" alt="">
 </a>
 </figure> 
