@@ -12,6 +12,9 @@ show_excerpts: false
 
 ## Comcast Xfinity [855-638-2355](tel:855-638-2855)
 
+## Board of Directors Email List - [wuc-board@googlegroups.com](mailto:wuc-board@googlegroups.com)
+
+## Community Email List - [wuc-community@googlegroups.com](mailto:wuc-community@googlegroups.com)
 
 <br>
 <br>
