@@ -4,7 +4,6 @@ layout: page
 show_excerpts: false
 ---
 
-# Contact Information
 
 ## Building Engineer [202-360-5348](tel:202-360-5348)
 
@@ -15,6 +14,8 @@ show_excerpts: false
 ## Board of Directors Email List - [wuc-board@googlegroups.com](mailto:wuc-board@googlegroups.com)
 
 ## Community Email List - [wuc-community@googlegroups.com](mailto:wuc-community@googlegroups.com)
+
+## Community Forum - [#wuc-community:matrix.org](https://riot.im/app/#/room/#wuc-community:matrix.org)
 
 <br>
 <br>
