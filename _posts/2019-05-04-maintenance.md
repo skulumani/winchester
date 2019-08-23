@@ -11,7 +11,7 @@ tags:
 
 The maintenance of the cooperative is the responsibility of each shareholder and the cooperative association.
 Both the shareholders and the cooperative have specific areas of responsibility which are summarized in the following [document](https://docs.google.com/document/d/1x7dPPhYBqeaczw_kWCKT5nkT5-vrX_eISqClwgnK7O4/edit?usp=sharing).
-
+These responsibilities are defined in our [Governing Documents]({{ site.base_url }}{% post_url 2019-06-15-governing-documents %}).
 The specific responsibilities are also shown below for easy reference.
 
 ## Shareholder Maintenance Responsibilities

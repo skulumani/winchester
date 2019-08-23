@@ -4,13 +4,18 @@ layout: page
 show_excerpts: false
 ---
 
-# Contact Information
+
+## Building Engineer [202-360-5348](tel:202-360-5348)
 
 ## Property Managment [202-537-1801](tel:202-537-1801)
 
-## Comcast Xfinity [855-638-2355](tel:855-638-2355)
+## Comcast Xfinity [855-638-2355](tel:855-638-2855)
 
-## Building Engineer [202-360-5348](tel:202-360-5348)
+## Board of Directors Email List - [wuc-board@googlegroups.com](mailto:wuc-board@googlegroups.com)
+
+## Community Email List - [wuc-community@googlegroups.com](mailto:wuc-community@googlegroups.com)
+
+## Community Forum - [#wuc-community:matrix.org](https://riot.im/app/#/room/#wuc-community:matrix.org)
 
 <br>
 <br>
