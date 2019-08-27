@@ -7,7 +7,7 @@ show_excerpts: false
 
 ## Building Engineer [202-360-5348](tel:202-360-5348)
 
-## Property Managment [202-537-1801](tel:202-537-1801)
+## Roost DC Managment [202-986-3088](tel:202-986-3088)
 
 ## Comcast Xfinity [855-638-2355](tel:855-638-2855)
 
@@ -17,6 +17,17 @@ show_excerpts: false
 
 ## Community Forum - [#wuc-community:matrix.org](https://riot.im/app/#/room/#wuc-community:matrix.org)
 
+<br>
+<br>
+
+<figure style="width: 128px" class="align-left">
+<a href="https://roostdcllc.appfolio.com/connect/users/sign_in">
+<img src="{{ '/images/dollar-symbol.png' | absolute_url }}" alt="">
+</a>
+</figure> 
+
+# Our management company with access to online assessment payments and documents
+<br>
 <br>
 <br>
 
@@ -53,16 +64,6 @@ show_excerpts: false
 <br>
 <br>
 
-<figure style="width: 128px" class="align-left">
-<a href="https://portal.ejfrealestate.com/">
-<img src="{{ '/images/dollar-symbol.png' | absolute_url }}" alt="">
-</a>
-</figure> 
-
-# Our management company with access to online assessment payments and documents
-<br>
-<br>
-<br>
 
 Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" 			    title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" 			    title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
 </p>
