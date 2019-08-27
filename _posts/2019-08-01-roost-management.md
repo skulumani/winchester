@@ -41,8 +41,8 @@ Cooperative fees are due by 1 September 2019.
 
 There are several methods to pay the cooperative fees:
 
-1. Use the [owner portal](https://roostdcllc.appfolio.com/connect/users/sign_in){:target="_blank"} to pay with an electronic check or credit card. 
-2. Pay in cash at any 7/11, CVS, or ACE Sales. Please contact Roost, at 202-986-3088 x 103, if you would like to use this option. You will receive some additional information and a barcode for use to pay with cash.
+1. Use the [owner portal](https://roostdcllc.appfolio.com/connect/users/sign_in){:target="_blank"} to pay with an electronic check or credit card. Credit card payment incur an additional charge.
+2. Pay in cash at any 7/11, CVS, or ACE Sales. Please contact Roost, at 202-986-3088 x 103, if you would like to use this option. You will receive some additional information and a barcode for use to pay with cash. There is an additional fee for this service.
 3. Pay by check. Mail a check made out to the "Winchester Underwood Cooperative" with your Unit number and mailed to:
 
 Payable To: Winchester Underwood Cooperative
