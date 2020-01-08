@@ -7,6 +7,19 @@ tags:
     - information
 ---
 
+Thanks to those that were able to join in the Cooperative Fee meeting on January 7, 2020. 
+The slides and material presented are available below.
+
+* [Shareholder Slides](https://docs.google.com/presentation/d/12C99Nf6ht8TO_V6-ZEO6XCC9gmTc4ZDd5K-hfSIbT4c/edit?usp=sharing)
+* [Fee Explanation Guide](https://docs.google.com/document/d/1XrFvuv1SoEW_TCI-Zam-ElDBo9kT_lc6coX3d6Xs9lw/edit?usp=sharing)
+
+You can also find all of the governing documents on this website as well.
+
+* [Governing Documents]({% post_url 2019-06-15-governing-documents %})
+
+## Cooperative Fee Explanation
+
+
 ## Reminder
 
 The Board of Winchester-Underwood considered the 2020 budget carefully and has implemented a new budget and fee increase.
