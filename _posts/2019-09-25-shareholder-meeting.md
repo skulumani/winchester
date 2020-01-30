@@ -6,6 +6,8 @@ tags:
     - community
     - information
     - cooperative
+    - meeting
+    - slides
 ---
 
 Thank you for those who were able to attend our quaterly shareholder meeting today. 
