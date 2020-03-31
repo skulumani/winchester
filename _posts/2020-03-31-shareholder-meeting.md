@@ -14,4 +14,5 @@ We will have a shareholder meeting to discuss COVID-19 and the Cooperative respo
 This will be a virtual meeting which you can join using the following information:
 
 1. [Join using a computer/mobile device](https://meet.jit.si/winchester-underwood-cooperative)
-2. Call in using a phone: +1.512.402.2718 PIN: 943405175#
+2. Call in using a phone: [1.512.402.2718](tel:1.512.402.2718) PIN: 943405175#
+    * On a mobile phone you can tap this: [+1.512.402.2718,,943405175#](tel:+1.512.402.2718,,943405175#)
