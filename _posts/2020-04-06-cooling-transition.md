@@ -40,5 +40,5 @@ DO NOT interfere with these alarms.
 Notify the Building Engineer, Roost, and the Board immediately if any alarm sounds.
 
 3. During this process, the Cooperative will not have any heat until the fall. 
-As a result, if one forgets to close the windows during a chilly night it will take a significant amount of time (and sun) to warm you Unit back up.
+As a result, if one forgets to close the windows during a chilly night it will take a significant amount of time (and sun) to warm your Unit back up.
 
