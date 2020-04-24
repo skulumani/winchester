@@ -23,7 +23,7 @@ The following are a more complete description of specific areas of responsibilit
 Shareholder shall reimburse the Corporation for the costs of any such repairs.
 * Redecoration of the interior of unit.
 * Entrance doors, windows and window panes, fixtures, appliances, and other items within the interior surfaces of the perimeter walls, floors and ceilings
-* Any pipes, ducts, flues, shafts, and electrical wiring within the unit
+* Any pipes, ducts, flues, shafts, and electrical wiring serving only the Unit, regardless of location
 * Any Parking Space shall be kept clean and free of debris. The parking space is only for parking and not for repair, storage, or any other purpose.
 * Testing smoke detectors within a unit
 
