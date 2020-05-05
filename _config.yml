@@ -36,6 +36,8 @@ disqus:
 twitter:
   username:  # site's Twitter username
 
+future: false # no future dated posts
+show_drafts: false # no draft posts
 # Liquid
 liquid:
   error_mode: strict
