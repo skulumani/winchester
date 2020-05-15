@@ -1,6 +1,6 @@
 ---
-title: "2020 AC Transition"
-date: 2020-04-06
+title: "2020 HVAC Transition"
+date: 2020-05-15
 layout: post
 tags:
     - information
@@ -25,6 +25,13 @@ Unit convectors are used to absorb the heat from within our Units, transfer it t
 However, due to the COVID-19 pandemic this service is delayed until a later date.
 This will avoid having the Building Engineers entering all Units and potentially exposing themselves or the Cooperative to an increased risk of infection.
 
+Building engineer will contact shareholders to schedule a convector service date. Units will be serviced at a reduced frequency over the next several weeks. 
+
+Any shareholder is free to request that service will be skipped. In this case your unit will be tracked and serviced at a later date. This increases chance of damage and requires sharehodlers to pay extra attention. 
+
+If a shareholder is sick/unwell or has any other complication, inform the Building engineer directly and your unit will be skipped. 
+
+
 ## Important Information
 
 However, due to the modified service it is critical that all shareholders pay extra attention and take the following steps:
@@ -37,7 +44,7 @@ It is your responsibility as a shareholder to protect the Cooperative infrastruc
 
 2. All convectors are equipped with water alarms. 
 DO NOT interfere with these alarms. 
-Notify the Building Engineer, Roost, and the Board immediately if any alarm sounds.
+Notify the Building Engineer, Roost, and the Board immediately if any alarm sounds or you notice water leakage.
 
 3. During this process, the Cooperative will not have any heat until the fall. 
 As a result, if one forgets to close the windows during a chilly night it will take a significant amount of time (and sun) to warm your Unit back up.
