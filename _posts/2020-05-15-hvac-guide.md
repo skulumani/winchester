@@ -5,15 +5,15 @@ layout: post
 tags:
     - information
     - utilities
-published: false
+published: true
 ---
 
 The Cooperative transitioned from heating to cooling on 15 May 2020. 
 This particular spring season has been very challenging for everyone with several days of high temperatures followed by long periods of lower than average temperatures. 
-In addition, due to the construction of our building temperatures can vary signficantly between Units and among floors.
+In addition, due to the construction of our building temperatures can vary significantly between Units and among floors.
 We appreciate the understanding by all Shareholders as we worked through the transition process. 
 
-## Transiton Guide
+## Transition Guide
 
 The Board has put together a [document](https://docs.google.com/document/d/15GifheeCyjAad_orzv6zE0WcUGUexxMiXjMWQUzkYgw/edit?usp=sharing) which describes the operation of the HVAC system of the Winchester Underwood. 
 In addition, we describe the decision process that is used to transition between heating and cooling.
