@@ -8,7 +8,7 @@ show_excerpts: false
 
 ## Building Engineer [202-360-5348](tel:202-360-5348)
 
-## [Roost DC Managment](https://roostdcllc.appfolio.com/connect/users/sign_in) [202-986-3088](tel:202-986-3088)
+## [Roost DC Managment](https://roostdcllc.appfolio.com/connect/users/sign_in) [202-986-3088](tel:202-986-3088) Emily Servais - [emily@roost-dc.com](mailto:emily@roost-dc.com)
 
 ## Comcast Xfinity [855-638-2855](tel:855-638-2855)
 
